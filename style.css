@@ -358,7 +358,8 @@ header{
   width: 300px;
 }
 .slider{
-  width: 700px;
+  width: 100%;
+  max-width: 700px;
 }
 .slider button{
   display: none;
@@ -378,7 +379,8 @@ header{
   width: 280px;
   max-height: 250px;
 .slider{
-  width: 500px;
+  width: 100%;
+  max-width: 500px;
 } 
 .footer-container{
   flex-direction: column-reverse;
