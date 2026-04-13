@@ -362,6 +362,8 @@ header{
   font-size: 18px;
   width: 300px;
 }
+.slide-container{
+  margin-bottom: 200px
 
 .slider{
   width: 100%;
