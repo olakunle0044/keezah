@@ -374,6 +374,9 @@ header{
 .socials{
   display: none;
 }
+.grid img{
+  width: 280px;
+  max-height: 250px;
 .slider{
   width: 500px;
 } 
