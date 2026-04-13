@@ -372,7 +372,7 @@ header{
   display: none;
 }
 .footer-container{
-  padding-top: 200px;
+  padding-top: 400px;
   flex-direction: column-reverse;
   align-items: center;
   height: 100vh;
