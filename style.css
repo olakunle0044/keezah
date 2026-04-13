@@ -400,6 +400,13 @@ header{
 .slider{
   width: 100%;
   max-width: 500px;
-} 
+}
+.footer-container{
+  padding-top: 200px;
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: center;
+  min-height: 100dvh;
+}
 }
 
