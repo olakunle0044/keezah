@@ -312,6 +312,7 @@ details[open] summary::before {
 }
 .about-container{
   margin-top: 250px;
+  margin-bottom: 200px;
   display: flex;
   justify-content: center;
   flex-direction: column-reverse;
