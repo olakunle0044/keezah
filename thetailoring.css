@@ -318,6 +318,7 @@ details[open] summary::before {
 }
 .about-container{
   margin-top: 250px;
+  padding-top: 80px;
   margin-bottom: 200px;
   display: flex;
   flex-direction: column-reverse;
