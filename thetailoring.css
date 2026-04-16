@@ -301,7 +301,7 @@ details[open] summary::before {
   padding-bottom: 80px;
 }
 .tailoring-left img{
-  padding-bottom: 20px;
+  padding-bottom: 10px;
   width: 280px;
 }  
 .tailoring-right{
@@ -315,7 +315,7 @@ details[open] summary::before {
   text-align: center;
 }
 .hr-1{
-  margin-bottom: 80px;
+  margin-bottom: 150px;
 }
 .about-container{
   margin-top: 250px;
