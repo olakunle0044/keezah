@@ -319,6 +319,8 @@ details[open] summary::before {
 }
 .about-container{
   padding-top: 80px;
+  height: 100%;
+  max-height: fit-content;
   margin-bottom: 200px;
   display: flex;
   flex-direction: column-reverse;
