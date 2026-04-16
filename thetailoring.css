@@ -298,6 +298,7 @@ details[open] summary::before {
 }
 .tailoring{
   flex-direction: column; 
+  padding-bottom: 80px;
 }
 .tailoring-left img{
   padding-bottom: 20px;
