@@ -276,6 +276,7 @@ header{
 
 .about-container{
   margin-top: 250px;
+  margin-bottom: 200px;
   display: flex;
   flex-direction: column-reverse;
   align-items: center;
